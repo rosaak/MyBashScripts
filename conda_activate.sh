@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash
 
 #'activate and deactivate anaconda distribution'
 
