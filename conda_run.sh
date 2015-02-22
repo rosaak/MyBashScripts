@@ -3,7 +3,7 @@
 #'activate and deactivate anaconda distribution'
 
 case $1 in
-1)
+run)
   echo "Activate Anaconda Environment"
   source $HOME/anaconda3/bin/activate ~/anaconda3/
   ;;
